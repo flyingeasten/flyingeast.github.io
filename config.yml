@@ -1,18 +1,18 @@
-baseURL: 'https://hugo-ladder.pages.dev'
+baseURL: 'https://flyingeast.github.io'  
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
-licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
+licenselink: 'https://github.com/flyingeasten/flyingeast-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://hugo-ladder.pages.dev'
-defaultContentLanguage: 'en'
+homepage: 'https://flyingeast.github.io'
+defaultContentLanguage: 'zh'
 googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
 hasCJKLanguage: true
-copyright: "2023 GuangzhengLi All rights reserved"
+copyright: "2024 flyingeast All rights reserved"
 Author:
-  name: "Guangzheng Li"
-  email: "iguangzhengli@gmail.com"
+  name: "Thomas Jiang"    
+  email: "flyingeasten@gmail.com"
 menu:
   main:
     - name: Blog
